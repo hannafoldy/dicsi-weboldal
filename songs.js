@@ -69,6 +69,19 @@ const SONGS = [
 `
   },
 
+   {
+    cim: "Döntött a szívem",
+    tempo: "közepes",
+    hangnem: "G",
+    szoveg: `
+# Versszak 1
+[G]Döntött a szívem követlek Jézus
+[C]Döntött a szívem követlek [G]Jézus
+Döntött a szívem követlek [Em]Jézus
+[G]Nincs vissza út, [D]nincs vissza [G]út
+`
+  },
+
   {
     cim: "Csendes éj",
     tempo: "lassú",
