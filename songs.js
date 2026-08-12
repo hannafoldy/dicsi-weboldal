@@ -31,44 +31,6 @@
 
 const SONGS = [
 
-  {
-    cim: "Uram, hozzád jövök (minta)",
-    tempo: "lassú",
-    hangnem: "G",
-    szoveg: `
-# Versszak
-[G]Uram, hozzád [D]jövök ma [Em]reggel,
-[C]csendben megállok [G]előtted.
-[G]Szívem kitárom [D]teljes [Em]szívvel,
-[C]tölts be a [D]jelenléteddel.
-
-# Refrén
-[C]Szent vagy, [G]szent vagy,
-[D]méltó vagy a [Em]dicséretre.
-[C]Szent vagy, [G]szent vagy,
-[D]néked zeng a [G]szívem éneke.
-`
-  },
-
-  {
-    cim: "Örvendjetek (minta)",
-    tempo: "gyors",
-    hangnem: "D",
-    szoveg: `
-# Versszak
-[D]Örvendjetek, az [A]Úr közel,
-[Bm]zengjen a [G]dal ma szüntelen!
-[D]Kelj fel, te nép, és [A]énekelj,
-[G]hálát adj [A]Istenünknek [D]fel!
-
-# Refrén
-[G]Hallelu[D]ja, [A]hallelu[Bm]ja,
-[G]néki [D]szóljon [A]minden hang!
-[G]Hallelu[D]ja, [A]hallelu[Bm]ja,
-[G]zengjen [A]égen-földön [D]dal!
-`
-  },
-
    {
     cim: "Döntött a szívem",
     tempo: "közepes",
@@ -155,22 +117,5 @@ Szívem minden [F]húrja [Dm]Rólad [E]muzsikál [Am]
 [Am]Te visszatartod a [G]tengert
 [Em]Nem félek többé [D]már
 `
-},
-
-  {
-    cim: "Csendes éj",
-    tempo: "lassú",
-    hangnem: "C",
-    szoveg: `
-# Versszak 1
-[C]Csendes éj, [G7]szentséges [C]éj!
-Mind: [F]nyugszik [C]már,
-[F]csak a [C]drága szent [G7]pár.
-[C]Várja gyermeke [G7]álmát,
-[C]a boldog [G7]szűzi [C]lány.
-[C]Szent [F]fiú, [C]aludjál,
-[G7]szent fiú, alu[C]djál!
-`
-  }
-
+}
 ];
