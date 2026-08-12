@@ -79,8 +79,83 @@ const SONGS = [
 [C]Döntött a szívem követlek [G]Jézus
 Döntött a szívem követlek [Em]Jézus
 [G]Nincs vissza út, [D]nincs vissza [G]út
+
+# Versszak 2
+[G]Előre nézek, a régi elmúlt
+[C]Előre nézek, a régi [G]elmúlt
+Előre nézek, a régi [Em]elmúlt
+[G]Nincs vissza út, [D]nincs vissza [G]út
 `
   },
+
+
+{
+  cim: "Hús-vér templom",
+  tempo: "közepes",
+  hangnem: "Am",
+  szoveg: `
+# Versszak
+[Am]Nekem nincs más [Dm]Rajtad kívül [G]Jézus
+[Am]Életem [Dm]forrása [G]vagy
+[Am]Kézzel, lábbal, [Dm]szívvel, szájjal
+[F]Dicsérlek [Dm]Uram [E]
+
+# Refrén
+[Am]Ez a hús-vér [Dm]templom [E]Érted [Am]épült
+Neked ég a [F]tűz, bent [Dm]oltárainál [E]
+[Am]Ez a hús-vér [Dm]templom [E]Téged [Am]dicsér
+Szívem minden [F]húrja [Dm]Rólad [E]muzsikál [Am]
+`
+},
+
+{
+  cim: "Velem vagy",
+  tempo: "közepes",
+  hangnem: "C",
+  szoveg: `
+# Intro
+[C] | [Em] | [D] | // x2
+
+# Versszak
+[C]Szívem, ne csüggedj többé
+[Em]Tedd le láncaid
+[G]Állj fel, és menj [D]tovább
+
+[C]Ha már elfáradtál
+[Em]Hidd el, lesz, ki felsegít
+[Am]És azt mondja: [G]kelj fel és [D]járj
+
+# Refrén
+[G]Veled vagy a bajban
+[Am]Közel [G/H]hozzám
+[C]Velem vagy tűzben
+[Em]Ha minden [D]fáj
+
+[G]Velem vagy, ha gátak
+[Am]Szakadnak rám
+[G/H]Karod körbezár [C]
+[Am]Te visszatartod a [G]tengert
+[Em]Nem félek többé [D]már
+
+# Bridge
+[C]Helyreállítottál [G/H]már
+[D]Lábam újra táncot [Em]jár
+[C]Csodálkozva néznek [G/H]rám
+[D]Mily nagy vagy (Atyám)
+
+# Refrén (Bridge után)
+[G]Veled vagy a bajban
+[Am]Közel [G/H]hozzám
+[C]Velem vagy tűzben
+[Em]Ha minden [D]fáj
+
+[G]Velem vagy, ha gátak
+[Am]Szakadnak rám
+[G/H]Karod körbezár [C]
+[Am]Te visszatartod a [G]tengert
+[Em]Nem félek többé [D]már
+`
+},
 
   {
     cim: "Csendes éj",
