@@ -117,5 +117,72 @@ Szívem minden [F]húrja [Dm]Rólad [E]muzsikál [Am]
 [Am]Te visszatartod a [G]tengert
 [Em]Nem félek többé [D]már
 `
-}
+},
+
+   {
+  cim: "Istennel vagyunk mi győztesek",
+  tempo: "közepes",
+  hangnem: "Am",
+  szoveg: `
+# Versszak
+[Am]Istennel vagyunk mi győztesek
+[G]Ő űzi el előlünk [Dm]ellenségünket [Am]
+[G]Hát zengj és dicsérd [Am]győzelmét, [G]Ó [Am]az Úr
+[G]Hisz Ő nyerte meg a [Am]csatát és népe [Dm]megszabadult [Am]
+[G]Vére [Am]legyőzte a [Dm]gonoszt, a [E]világ tudja meg, hogy [Am]Istennel...
+`
+},
+
+{
+  cim: "Isten ezt a napot",
+  tempo: "közepes",
+  hangnem: "D",
+  szoveg: `
+# Versszak 1
+[D]Isten ezt a napot azért adta nekünk, hogy [G]dicsérjük szent nevét [A] [D]
+[G]hogy dicsérjük szent [D]nevét, hogy [G]dicsérjük szent [D]nevét
+
+# Versszak 2
+[D]Isten ezt a napot azért adta nekünk, hogy [G]néki szolgáljunk [A] [D]
+[G]hogy néki [D]szolgáljunk, hogy [G]néki [D]szolgáljunk
+
+# Versszak 3
+[D]Isten ezt a napot azért adta nekünk, hogy [G]szeressük mi egymást [A] [D]
+[G]hogy szeressük mi [D]egymást, hogy [G]szeressük mi [D]egymást
+`
+},
+
+{
+  cim: "A Föld amelyre lábad lép",
+  tempo: "közepes",
+  hangnem: "Dm",
+  szoveg: `
+# Versszak 1
+[Dm]A Föld amelyre lábad lép, véges végig a tied, [C]
+[Dm]mert én adtam azt neked.
+
+# Versszak 2
+[Gm]Nem illetheti az ellenség, nem lesz sohasem idegené, [Dm] [C] [Dm]
+[Gm]nem lakhat ott csak az a nép, akié a szövetség. [C] [A]
+`
+},
+
+{
+  cim: "Felmagasztaljuk neved",
+  tempo: "gyors",
+  hangnem: "G",
+  szoveg: `
+# Versszak 1
+[G]Felmagasztaljuk [C]neved, [D]zengjük dicséretedet [C] [D] [G]
+[G]Csak Te vagy a [C]Megváltó, [D]jelenléted gyógyító [C] [D] [G]
+
+# Versszak 2
+[G]Néked szól, Ó Uram [C]dicséretünk
+[C]hozzád tartozhatunk, [D]oly jó nekünk [C] [G]
+[C]Téged magasztal szívünk, [D]legyél mindig itt velünk [Hm] [G] [C]
+[D]Ó Uram, úgy [G]szeretünk. [C] [D]
+`
+},
+
+
 ];
